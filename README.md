@@ -32,15 +32,15 @@ How to Run the Program
 
 python password_checker.py
 
-Example
+Sample Run
 
 Input:
 
-Helloworld@12345
+Enter a password: Helloworld@12345
 
 Output:
 
-Strong Password
+Password Strength: Strong
 
 Project Structure
 
