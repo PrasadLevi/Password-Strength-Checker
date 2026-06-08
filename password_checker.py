@@ -42,9 +42,8 @@ if special_ok:
     score += 1
 
 if score == 5:
-    print("Strong Password")
+    print("Password Strength: Strong")
 elif score >= 3:
-    print("Medium Password")
+    print("Password Strength: Medium")
 else:
-    print("Weak Password")
-
+    print("Password Strength: Weak")
